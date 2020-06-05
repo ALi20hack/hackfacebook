@@ -20,6 +20,9 @@ __banner__ = """
        \033[0;31m+---------------------------------------+
 """
 print('By : \033[1;33mALI-MOHAMMAD((\033[1;31mSYRIA-HaCKeR\033[1;33m))')
+print('Facebook : https://www.facebook.com/ALi20Hack ')
+print('Youtube: https://www.youtube.com/channel/UCkOu7kHM1aJkJw87d2FlG9Q ')
+print("================================")
 print("  \033[0;37m  ▄︻┻┳═一   ")
 print(" \033[0;37m SNIPER-\033[0;31mMA\033[0;32mRR\033[0;31mOC  ")
 print("================================")
